@@ -14,8 +14,8 @@ Hello! I'm JaiKrishnan S K, a passionate Business Analyst, graduated with my Mas
 
 •	🎓 Education: 
                 
-                M.Sc. in Business Analytics and Management Science, University of Southampton,
-                M.A. in Personnel Management and Industrial Relations, 
+                M.Sc. in Business Analytics and Management Science, University of Southampton
+                M.A. in Personnel Management and Industrial Relations
                 M.B.A in Marketing and Systems
                 B.S.c in Computer Science
 
@@ -34,7 +34,7 @@ Hello! I'm JaiKrishnan S K, a passionate Business Analyst, graduated with my Mas
 
 **ANALYTICS & VISUALIZATION TOOLS**
 
-•	Power BI
+•	Tableau
 
 •	Microsoft Excel
 
