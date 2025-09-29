@@ -77,5 +77,15 @@ Hello! I'm JaiKrishnan S K, a passionate Business Analyst, graduated with my Mas
 
 
 
+**CONNECT WITH ME**
+
+I'm always excited to connect with fellow data enthusiasts and professionals. Feel free to reach out to me through any of the following platforms:
+
+LinkedIn: https://www.linkedin.com/in/jai-krishnan-sk/ 
+
+Email: jaikrishnansk17@gmail.com 
+
+
+Thank you for visiting my GitHub profile. I look forward to collaborating and learning together!
 
 
