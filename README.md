@@ -1,12 +1,16 @@
 **Welcome to My GitHub Profile!**
 
 **INTRODUCTION**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 Hello! I'm JaiKrishnan S K, a passionate Business Analyst, graduated with my Master's degree in Business Analytics and Management Science at the University of Southampton. I have a background in Computer Science with hands-on experience in Business analytics and Data Management. My GitHub repository showcases my projects in the field of business analytics.
 
 
 
+
+
 **ABOUT ME**
+______________________________________________________________________________________________________________________________________________________________________________
 
 •	Name: JaiKrishnan S K
 
@@ -29,7 +33,10 @@ Hello! I'm JaiKrishnan S K, a passionate Business Analyst, graduated with my Mas
 
 
 
+
+
 **SKILLS**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 
 **ANALYTICS & VISUALIZATION TOOLS**
@@ -77,7 +84,10 @@ Hello! I'm JaiKrishnan S K, a passionate Business Analyst, graduated with my Mas
 
 
 
+
+
 **CONNECT WITH ME**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 I'm always excited to connect with fellow data enthusiasts and professionals. Feel free to reach out to me through any of the following platforms:
 
