@@ -1,16 +1,42 @@
-## Hi there 👋
+Welcome to My GitHub Profile!
 
-<!--
-**JaiKrishnan17/Jaikrishnan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction
+Hello! I'm JaiKrishnan S K, a passionate Business Analyst graduated with my Master's degree in Business Analytics and Management Science at the University of Southampton. I have a background in Computer Science with hands-on experience in Business analytics and Data Management. My GitHub repository showcases my projects in the field of business analytics.
 
-Here are some ideas to get you started:
+About Me
+Name: JaiKrishnan S K
+📍 Location: Southampton, UK
+🎓 Education: M.Sc. in Business Analytics and Management Science, University of Southampton, M.A. in Personnel Management and Industrial Relations, M.B.A in Marketing and Systems
+💡 Interests: Business Analysis, Data Visualization, Business Administration
+✉️ Email: jaikrishnansk17@gmail.com
+🔗 LinkedIn: JAIRISHNAN S K
+💼 Experience: Intern and Relationship Manager which includes Data analytics and managemen and Credit Risk Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Data Science
+Python
+
+Analytics & Visualization Tools
+Power BI
+Microsoft Excel
+Google Analytics
+
+Programming Languages
+Python
+
+Libraries
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Keras
+TensorFlow
+Computer Vision
+randomForest
+Databases
+MySQL
+
+Cloud
+Salesforce
+
+
